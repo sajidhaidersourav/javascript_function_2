@@ -1,0 +1,59 @@
+.container{
+    padding: 30px 0px 50px;
+}
+.item1{
+    margin: 20px 10px;
+    padding: 20px;
+    min-height: 215px;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.item1 button{
+    margin: 20px 0px;   
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+}
+.item1 p{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.item_box{
+    min-height: 286px;
+}
+.item_box h2{
+    padding-top: 40px;
+}
+.green{
+    color: green !important;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.yollow{
+    color: brown;
+}
+.box{
+    margin: 0 auto;
+    width: 80px;
+    min-height: 80px;
+    background-color: blue;
+}
+.box2{
+    border-radius: 50%;
+}
+.item2{
+    min-height: 250px;
+}
+.box4{
+    margin: 0 auto;
+    width: 150px;
+    height: 80px;
+    background-color: tomato;
+    border: 2px solid black;
+    display: none;
+}
